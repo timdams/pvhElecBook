@@ -22,7 +22,7 @@ De kenmerken van elektronische basiscomponenten, zoals weerstanden en dioden, ku
 
 ### Lineaire vergelijkingen {#lineaire-vergelijkingen}
 
-In algebra is een lineaire vergelijking een vergelijking dat een rechte weergeeft tussen 2 variabelen in de vorm van : . Hierbij stelt de afhankelijke variabele voor, de onafhankelijke variabele en de richtingscoëfficiënt van de helling die de rechte maakt met de as. Het snijpunt met de as wordt weergegeven door .
+In algebra is een lineaire vergelijking een vergelijking dat een rechte weergeeft tussen 2 variabelen in de vorm van : $$y=mx+c$$ . Hierbij stelt de afhankelijke variabele voor, de onafhankelijke variabele en de richtingscoëfficiënt van de helling die de rechte maakt met de as. Het snijpunt met de as wordt weergegeven door .
 
 ![](/assets/afbeelding_1.png)
 
