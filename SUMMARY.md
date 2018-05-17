@@ -1,0 +1,15 @@
+# Summary
+
+* [Electronic Devices M3 opendocument (1)](README.md)
+* [Electronic Devices](electronic_devices.md)
+* [Analoge concepten](analoge_concepten\README.md)
+  * [De karakteristiek van een component](analoge_concepten\de_karakteristiek_van_een_component.md)
+  * [Analoge signalen](analoge_concepten\analoge_signalen.md)
+  * [Signaalbronnen](analoge_concepten\signaalbronnen.md)
+  * [Versterkers](analoge_concepten\versterkers.md)
+* [PN-juncties](pn-juncties\README.md)
+  * [Atoomstructuur van halfgeleiders](pn-juncties\atoomstructuur_van_halfgeleiders.md)
+  * [De PN-junctie](pn-juncties\de_pn-junctie.md)
+  * [De halfgeleiderdiode](pn-juncties\de_halfgeleiderdiode.md)
+  * [De bipolaire junctie transistor of BJT](pn-juncties\de_bipolaire_junctie_transistor_of_bjt.md)
+  * [De Veldeffecttransistor of JFET](pn-juncties\de_veldeffecttransistor_of_jfet.md)
