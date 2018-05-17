@@ -1,0 +1,612 @@
+
+<!DOCTYPE HTML>
+<html lang="" >
+    <head>
+        <meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>De bipolaire junctie transistor of BJT · GitBook</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.3">
+        
+        
+        
+    
+    <link rel="stylesheet" href="../gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-highlight/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-search/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+        
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="de_veldeffecttransistor_of_jfet.html" />
+    
+    
+    <link rel="prev" href="de_halfgeleiderdiode.html" />
+    
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="Type to search" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+
+    
+
+    
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="../">
+            
+                <a href="../">
+            
+                    
+                    Electronic Devices M3 opendocument (1)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" data-path="../electronic_devices.html">
+            
+                <a href="../electronic_devices.html">
+            
+                    
+                    Electronic Devices
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3" data-path="../analoge_concepten/">
+            
+                <a href="../analoge_concepten/">
+            
+                    
+                    Analoge concepten
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.3.1" data-path="../analoge_concepten/de_karakteristiek_van_een_component.html">
+            
+                <a href="../analoge_concepten/de_karakteristiek_van_een_component.html">
+            
+                    
+                    De karakteristiek van een component
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.2" data-path="../analoge_concepten/analoge_signalen.html">
+            
+                <a href="../analoge_concepten/analoge_signalen.html">
+            
+                    
+                    Analoge signalen
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.3" data-path="../analoge_concepten/signaalbronnen.html">
+            
+                <a href="../analoge_concepten/signaalbronnen.html">
+            
+                    
+                    Signaalbronnen
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.4" data-path="../analoge_concepten/versterkers.html">
+            
+                <a href="../analoge_concepten/versterkers.html">
+            
+                    
+                    Versterkers
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4" data-path="./">
+            
+                <a href="./">
+            
+                    
+                    PN-juncties
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.4.1" data-path="atoomstructuur_van_halfgeleiders.html">
+            
+                <a href="atoomstructuur_van_halfgeleiders.html">
+            
+                    
+                    Atoomstructuur van halfgeleiders
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.2" data-path="de_pn-junctie.html">
+            
+                <a href="de_pn-junctie.html">
+            
+                    
+                    De PN-junctie
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.3" data-path="de_halfgeleiderdiode.html">
+            
+                <a href="de_halfgeleiderdiode.html">
+            
+                    
+                    De halfgeleiderdiode
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter active" data-level="1.4.4" data-path="de_bipolaire_junctie_transistor_of_bjt.html">
+            
+                <a href="de_bipolaire_junctie_transistor_of_bjt.html">
+            
+                    
+                    De bipolaire junctie transistor of BJT
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.5" data-path="de_veldeffecttransistor_of_jfet.html">
+            
+                <a href="de_veldeffecttransistor_of_jfet.html">
+            
+                    
+                    De Veldeffecttransistor of JFET
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            Published with GitBook
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href=".." >De bipolaire junctie transistor of BJT</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h2 id="de-bipolaire-junctie-transistor-of-bjt">De bipolaire junctie transistor of BJT </h2>
+<p>In deze sectie wordt besproken wat de werking is van een bipolaire junctietransistor. Deze wordt ook wel eens kortweg BJT of transistor genoemd. Naast de werking wordt de samenstelling, de gebruikte standaardsymbolen en het gebruik van de belastingslijn besproken bij het instellen van de transistor.</p>
+<p>Wat is belangrijk?</p>
+<ul>
+<li><p>Je beschrijft de basisconstructie van een BJT.</p>
+</li>
+<li><p><strong><em>Je geeft het verschil weer tussen een</em> **</strong><em>-transistor en een</em> <strong>**<em>-transistor.</em></strong></p>
+</li>
+<li><p>Je definieert de stromen die door een transistor vloeien en verklaart hun onderlinge relatie.</p>
+</li>
+<li><p>Je berekent en tekent een belastingslijn voor een bepaalde transistorschakeling.</p>
+</li>
+<li><p>Je definieert de begrippen cutoff en verzadiging.</p>
+</li>
+<li><p>Je defineert de spanningsversterking, stroomversterking, ingangsimpedantie en uitgangsimpedantie voor een GES-, GBS- en GCS-principeschakeling van een transistor.</p>
+</li>
+<li><p>Je tekent en verklaart het verloop van de transconductantiekarakteristiek bij een transistor.</p>
+</li>
+<li><p>Je tekent en verklaart het verloop van de uitgangskarakteristiek (collectorkarakteristiek) van een transitor in GES-schakeling.</p>
+</li>
+</ul>
+<p>Men kan een half geleiderkristal zodanig verontreinigen dat een of een -structuur ontstaat. Een kristal met deze structuur wordt een junctietransistor genoemd. In de -gebieden zijn er veel vrije electronen en in het (smalle) -gebied veel gaten. Hierdoor wordt een junctietransistor ook meestal bipolaire transistor genoemd.</p>
+<p>De junctietransistor is in 1949 voor het eerst gemaakt door een team onder leiding van Shockley. In 1951 kwam de eerste serieproduktie van de junctietransistor op de markt. Sindsdien is de transistor niet meer uit de electronica weg te denken. Naast het opstarten van een miljardenindustrie heeft de transistor ook geleid tot nieuwe electronische systemen zoals geintegreerde schakelingen (IC&apos;s),</p>
+<p>opto-electronische ontwerpen en microprocessoren.</p>
+<h3 id="opbouw-en-principewerking-van-een-transistor">Opbouw en principewerking van een transistor </h3>
+<p><img src="../assets/afbeelding_466.png" alt=""></p>
+<p>Figuur 2-16 : opbouw van een NPN-transistor</p>
+<p>Figuur 2-16 toont een -kristal. De emitter is zeer zwaar gedopeerd met vijfwaardige atomen en heeft als doel electronen uit te zenden naar de basis. De basis is lichtjes gedopeerd met driewaardige atomen en zeer dun. Hierdoor is het mogelijk dat de meeste &quot;ge&#xEB;mitteerde&quot; electronen de collector bereiken. De dopering vijf-waardige atomen in de collector ligt tussen de doperingsgraad van de emitter en de basis in. De collector heeft z&apos;n naam te danken aan het feit dat in dit gebied de vrije</p>
+<p>electronen, afkomstig van de basis, opvangt. De collector is ook de grootste van de drie gebieden. Dit betekent dat de collector meer warmte zal opwekken dan de emitter of basis. De -transistor van figuur 2-16 bevat twee -juncties. E&#xE9;n tussen emitter en basis en een andere tussen basis en collector. Juist omwille van deze twee juncties wordt een transistor wel eens vergeleken met twee dioden. Doch zoals je verder zal zien, komt de werking niet overeen met twee diode in serie geschakeld waarbij de anoden met elkaar verbonden zijn. In het verloop van deze cursus noemen we de emitter-basis junctie gewoonweg emitterjunctie en de collector -basis junctie collectorjunctie.</p>
+<p>De figuur 2-17 toont de structuur van een PNP-transistor.</p>
+<p><img src="../assets/afbeelding_475.png" alt=""></p>
+<p>Figuur 2-17: opbouw van een PNP-transistor</p>
+<p>De figuren 2-16 en 2-17 geven de meerderheidsladingsdragers en minderheidsladingsdragers weer voor de - respectievelijk -transistor. Net als bij de diode zullen er ook vrije elektronen diffunderen door beide juncties zodat ook hier op de grens van de -juncties een diffusielaag ontstaat. Ook hier onstaat over de diffusielaag een diffusiespanning van bij als de kristallen uit siliciium bestaan ( voor germaniumkristallen). Vermits de drie gebieden verschillende doperingsgraden (verontreingingsgraden) hebben,zullen de diffusielagen verschillende breedtes hebben. Hoe groter de dopering, hoe groter de concentratie van ionen in de onmiddellijke omgeving van de junctie. Dit betekent dat de diffusielaag heel klein in het emittergebied maar relatief groot in de basis. Tussen basis en collector heeft men een analoog verschijnsel. In de basis is de diffusielaag relatief groot en kleiner in het collectorgebied. Het ontstaan van de diffusielagen voor een NPN-transistor is in figuur 2-18 weergegeven.</p>
+<p><img src="../assets/afbeelding_470.png" alt=""></p>
+<p>Figuur 2-18: op het grensgebied van de kristallen ontstaan PN-juncties</p>
+<p>Als de emitterjunctie in doorlaat wordt aangesloten en de collectorjunctie in sper gebeurt er iets onverwachts. We verwachten met deze instelling een grote emitterstroom daar deze junctie in doorlaat ingesteld is. Vermits de collectorjunctie in sper is aangeloten hadden we niet verwacht daar ook een grote stroom aan te treffen. Toch is dit precies wat er gebeurt met deze instelling. Dit is ook de reden waarom een transistor een grote uitvinding is.</p>
+<p><img src="../assets/afbeelding_472.png" alt=""></p>
+<p>Figuur 2-19: emitterjuinctie in doorlaat en collectorjunctie in sper gepolariseerd</p>
+<p>Figuur 2-19 geeft weer wat er gebeurt als de emitterjunctie in doorlaat wordt gepolariseerd en de collectorjunctie in sper. Wanneer de spanning tussen emitter en basis groter is dan de diffusiespanning van de emitterjunctie,zullen er vele vrije electronen via de geleidingsband vanuit de emitter in het basisgebied stromen. De electronen in de basis kunnen nu in twee verschillende richtingen bewegen. Via de dunne basis en de uitwendige basiselectrode naar de voeding of via de collectorjunctie in het collectorgebied. Welke richting nemen de vrije electronen? Dit zal voornamelijk afhangen van de energie die de vrije elektronen meegekregen hebben tijdens hun verplaatsing door de geleidingsband naar de basis toe. De vrije elektronen met weinig energie zullen gemakkelijker recombineren met de gaten die in de basis meerderheidsladingsdragers zijn. Echter doordat de dopering van driewaardige atomen in het basisgebied veel minder is als bij het -kristal van een diode, kunnen er ook veel minder vrije elektronen recombineren dan bij een normale diode. Hieruit kan je besluiten dat het aantal recombinaties in de basis veel minder zal zijn als het aantal recombinaties in het -kristal van een normale diode. Eens deze elektronen gerecombineerd zijn met de gaten van basis worden ze valentie-elektronen. Deze elektronen zullen zich verplaatsen van gat naar gat richting uitwendige basiselektrode.</p>
+<p>Door het feit dat de basis veel dunner is dan de emitter en collector kunnen veel vrije elektronen het begin van de sperrende collectorjunctie bereiken. Deze vrije electronen die zich in de geleidinsband van de basis bevinden zijn de minderheidsladingsdragers in dit basis -kristal. We weten dat bij een diode in sper een stroom van minderheidsladingsdragers door de sperrende junctie vloeit. Deze stroom werd sper- of lekstroom genoemd bij de diode. Op analoge wijze zullen de vrije elektronen, die zich in de geleidingsband van de basis bevinden en de sperrende collector -junctie bereiken, door het sterke aanwezig elektrisch veld in deze sperlaag voortgeduwd worden naar het collectorgebied zoals in figuur 2-19 is weergegeven. In de collector bewegen deze vrije elektronen verder in de geleidingsband richting uitwendige collectorelektrode en zo verder naar de positieve klem van de spanningsbron..</p>
+<p>Samenvattend kan men de werking als volgt verklaren : De vrije electronen verlaten de negatieve pool van de spanningsbron en komen in de emitter van de NPN-transistor terecht.. De in doorlaat gepolariseerde emitterjunctie duwt deze electronen in de basis. Deze dunne en weinig gedopeerde basis zorgt ervoor dat de elektronen voldoende levenstijd hebben om te kunnen diffunderen, via de collectorjunctie, in de collector. Het electrisch veld over de sperrende junctie zorgt er voor dat de electronen in de collector kunnen komen. Vandaar verdwijnen ze in de collectorbelasting en positieve voedingsklem van .</p>
+<p>In de meeste transistortypen vloeit meer dan van de uit de emitter komende elektronen via de basis in de collector. Minder dan gaat via gaten naar de uitwendige basiselektrode. Vermits de elektronen vanuit de emitter worden uitgezonden komt dit gebied aan zijn naam emitter (emissie). De collector is het gebied binnen de transistor die de uitgezonden elektronen van uit de emitter grotendeels opvangt of collecteerd. Vandaar de benaming collector.</p>
+<h3 id="de-fundamentele-schakelingen-van-een-transistor">De fundamentele schakelingen van een transistor </h3>
+<p>In figuur 2-20 zijn de schemasysmbolen voor eenn -transistor en -transistor weergegeven. De pijl in het transistorsymool duidt de emitter aan. Als deze pijl naar binnen is gericht hebben we te maken met een -transistor en is deze pijl naar buiten gericht met een -transitor.</p>
+<p><img src="../assets/afbeelding_454.png" alt=""></p>
+<p>Figuur 2-20 : symbool voor - en -transistor</p>
+<p>Bij de transistor kunnen we drie fundamentele schakelingen onderscheiden : de Gemeenschappelijke Basis-Schakeling (GBS), de Gemeenschappelijke Emitter-Schakeling (GES) en de Gemeen-schappelijke Collector-schakeling (GCS). Zoals in figuur 2-20 is te zien heeft een transistor drie aansluitingen. Om de transistor te kunnen gebruiken wordt er tussen twee aansluitingen het ingangssignaal aangelegd en tussen twee aansluitingen het uitgangssignaal afgenomen. De aansluiting die zowel gebruikt wordt voor het ingangssignaal als voor het uitgangssignaal is de gemeenschappelijke aansluiting. Indien we te maken hebben met een van deze drie schakelingen dan schrijven we voor de spanningsaanduiding tussen twee klemmen van de transistor de gemeenschappelijke klem laatst. Zo is bijvoorbeeld de spanning tussen emitter en basis bij een GBS voorgesteld door . Diezelfde spanning maar bij een GES is dan .</p>
+<p>Wat ons vooral interesseert bij deze schakelingen is de versterkingsfactor die de verschillende basisschakelingen te bieden hebben. Ook hun in- en uitgangsimpedantie is belangrijk om te weten. Daarom zullen we steeds voor de drie schakelingen de uitgangsstroom in functie van de ingangs- stroom proberen te schrijven via een aantal vergelijkingen die we vinden door de wetten van Kirchhoff en de wet van Ohm toe te passen op de transistor.</p>
+<h4 id="de-gemeenschappelijke-basisschakeling-gbs">De gemeenschappelijke basisschakeling (GBS) </h4>
+<p>Bij de GBS, zie figuur 2-21, wordt het ingangssignaal aangelegd tussen emitter en basis, het uitgangssignaal wordt afgeleid via de collector en de basis. De basis is zowel aan de ingang als aan de uitgang terug te vinden en is hierdoor de gemeenschappelijke aansluiting. Normaal wordt de gemeenschappelijke aansluiting met de massa verbonden. De emiiterstroom is de ingangsstroom en de collectorstroom is de uitgangsstroom.</p>
+<p><img src="../assets/afbeelding_465.png" alt=""></p>
+<p>Figuur 2-21 : Gemeenschappelijke basisschakeling</p>
+<p>De transistor kan aanzien worden als een knooppunt. Toepassing van de stroomwet van Kirchhoff levert ons volgende vergelijking voor de emitterstroom .</p>
+<p>Figuur 2-22 toont de stromen binnen in de transistor en deze die er in- en uit vloeien.</p>
+<p><img src="../assets/afbeelding_471.png" alt=""></p>
+<p>Figuur 2-23 : De stromen door een transistor</p>
+<p>Nu de stroom gekend is, aan wat zijn dan de stromen en gelijk aan? In figuur 2-23 zie je dat de stroom zich in de basis splitst tussen een grote stroom stroom die door vloeit naar de collector en een kleine stroom die recombineert in de basis en daar naar buiten toe stroomt. Het gedeelte van de emitterstroom die naar de collector vloeit wordt het &#x201C;alfade&#x201D; deel van genoemd ().dat naar de basis vloeit. Ten gevolge van de omgevingstemperatuur breken er eveneens covalente bindingen in de sperlaag van de collectorjunctie. Hierdoor ontstaat vrije elektronen die eveneens van de basis naar de collector vloeien. Deze stroom wordt genoemd en is de lekstroom die van de basis naar de collector vloeit bij open emitter. Deze &#x201C;open emitter&#x201D; slaat op het feit dat deze stroom nog steeds blijft vloeien als men de emitter loskoppeld. is een stroom meestal ter grootte van nano-amp&#xE8;re tot micro-amp&#xE8;re.</p>
+<p>De uitwendige collectorstroom bestaat uit de som van de stromen die toekomen in de collector. Deze zijn en . In formulevorm:</p>
+<p>Nu de stromen en gekend zijn kan je hieruit afleiden:</p>
+<p>Stroomversterking van een GBS</p>
+<p>Hoeveel keer de GBS de stroom versterkt kunnen we vinden door de uitgangsstroom te delen door de ingangsstroom Het uitvoeren van deze deling leidt tot :</p>
+<p>De lekstroom is zeer klein ten opzichte van de emitterstroom. Hierdoor kan je deze verwaarlozen ten opzichte van . De uiteindelijke stroomversterking is gelijk aan :</p>
+<p>Meestal is gelijk aan . Dit betekent dat een GBS een stroomversterking heeft van ongeveer gelijk aan . In werkelijkheid is de stroom lichtjes verzwakt. is in de databoeken ook terug te vinden vindt als .</p>
+<p>Ingangsimpedantie van een GBS</p>
+<p>De ingangsimpedantie is te vinden via de verhouding van de ingangsspanning over de ingangsstroom. In formulevorm:</p>
+<p>De ingangsspanning is gelijk aan de spanning over de emitterjunctie. Vermits de emitterjuncte in doorlaat is gepolariseerd is de AC-weerstandswaarde laag. De AC-weerstand van de emitterjunctie wordt voorgesteld door . Door de emitterjunctie vloeit de stroom . Verder uitwerken :</p>
+<p>De ingangsimpedantie van een GBS is gelijk aan de AC-weerstand van een junctie in doorlaat. Dit is een lagen weerstandswaarde en afhankelijk van de grootte van .</p>
+<p>Uitgangsimpedantie van een GBS</p>
+<p>De uitgangsimpedantie is te vinden als de verhouding van de uitgangsspanning over de uitgangsstroom. In formulevorm:</p>
+<p>De uitgangsspanning is de spanning die over de sperrende collectorjunctie staat. De weerstandswaarde hiervan wordt voorgesteld als . Aldus wordt bekomen:</p>
+<p>De weerstandswaarde van is gemiddeld.</p>
+<p>Spanningsversterking van een GBS</p>
+<p>De spanningsversterking is gelijk aan de verhouding van de uitgangsspanning op de ingangsspanning. In formulevorm:</p>
+<p>Aangezien ongeveer gelijk is aan ( of hoger) is de spannigsversterking ongeveer gelijk aan :</p>
+<p>Algemeen vind je GBS-schakelingen vooral terug in hoogfrequent-schakelingen. Ze worden ook gebruikt in schakelingen die een lage ingangsimpedantie vereisen.</p>
+<h4 id="de-gemeenschappelijke-emitterschakeling-ges">De gemeenschappelijke emitterschakeling GES </h4>
+<p>In deze schakeling is de emitter als gemeenschappelijke aansluiting geschakeld en met de massa verbonden. De principeschakeling is weergegeven in figuur 2-24. Schakelingen gebaseerd op GES komen veelvuldig voor. Ook hier kunnen we terug nagaan wat de stroom- en spanningsversterking van de schakeling is en hoeveel de in- en uitgangsimpedantie bedraagt.</p>
+<p><img src="../assets/afbeelding_473.png" alt=""></p>
+<p>Figuur 2-24: de gemeenschappelijke emitterschakeling (GES)</p>
+<p>De stroomversterking<em>**</em>van een GES is ook hier gelijk aan de verhouding van de ingangsstroom op de uitgangsstroom. In deze schakeling is de ingangsstroom en de uitgangsstroom . In formulevorm:</p>
+<p>Bij de GBS zijn de externe stromen en als volgt bepaald:</p>
+<p>Vullen we dit in de formule voor de stroomversterking:</p>
+<p>De lekstroom is in de meeste gevallen verwaarloosbaar. Verwaarlozen we deze lekstroom dan kan de waarde van de stroomversterking benaderend als volgt worden geschreven:</p>
+<p>Of:</p>
+<p>In Amerikaanse databoeken wordt deze stroomversterking ook vermeld als . In Europese databoeken ga je de stroomversterking terugvinden als . Dit betekent dat je voor de GES de stroomversterking als volgt kan schrijven:</p>
+<p>Stel dat gelijk is aan , dan is gelijk aan:</p>
+<p>Afhankelijk van het type transistor kan je stroomversterkingen bekomen vari&#xEB;rend van (vermogentransistoren) tot en meer. Ook bij dezelfde typen transistoren kan sterk verschillen. Stel dat gelijk is aan in plaats van . Dit levert voor volgende waarde op:</p>
+<p>Je kan hieruit besluiten dat een kleine afwijking van grote veranderingen in kan teweegbrengen. Dit brengt mede dat bij transistoren die in versterkerschakelingen geschakeld zijn maatregelen moeten genomen worden opdat in de schakeling ongeveer constant zal blijven.</p>
+<p>Een ander verschijnsel dat zich voordoet bij een GES is dat de lekstroom met een waarde ) versterkt zal worden. Hiermee zal men in grote vermogenschakelingen rekening dienen te houden. De versterkte lekstroom wordt genoemd en is de stroom die zal vloeien tussen collector en emitter als de basis niet is aangesloten.</p>
+<p>Merk op dat in figuur 2-24 de zin van de ingangsstroom tegengesteld is aan de zin van de uitgangstroom . Dit betekent dat de GES-schakeling een faseverschuiving tussen in- en uitgang van zal veroorzaken. Later meer hier over.</p>
+<p>Ingangsimpedantie van een GES</p>
+<p>De ingangsimpedantie van de GES is als volgt te bepalen:</p>
+<p>De spanning is de spanning die over de geleidende emitterjunctie staat. De stroom die door deze junctie vloeit is en de AC-weerstandswaarde van deze junctie komt overeen met . Vervangen van via de wet van Ohm levert volgende vergelijking op:</p>
+<p>De verhouding tussen en is gelijk aan . Vermits meestal meer dan is, kan je stellen dat en bij benadering aan elkaar gelijk zijn. Hiermee kan je stellen dat :</p>
+<p>Vullen we deze vergelijking in de vergelijking van de ingangsimpedantie dan bekomen we:</p>
+<p>Dikwijls wordt deze ingangsimpedantie ook genoemd. De relatie tussen en is gelijk aan :</p>
+<p>Inzake weerstandswaarde is deze ingangsimpedantie in vergelijking met GBS en GCS eerder gemiddeld te noemen. Typerende waarden zijn ingangsimpedanties tussen en .</p>
+<p>Uitgangsimpedantie van een GES</p>
+<p>De uitgangsimpedantie is als volgt te vinden:</p>
+<p>De uitgangsweerstand is gelijk aan de AC-weerstand van de collectorjunctie. Deze weerstand wordt genoemd. Aldus wordt bekomen:</p>
+<p>De weerstandswaarde van de uitgangsweerstand van een GES is gemiddeld te noemen in vergelijking met GBS en GCS.</p>
+<p>Spanningsversterking van een GES</p>
+<p>De spanningsversterking is als volgt te bepalen:</p>
+<p>Het minteken duidt op faseverschuiving tussen de uitgang en de ingang. De GES is de meest voorkomende schakeling en levert een groot vermogenoverdracht op (). Deze schakeling komt ook het meest voor in versterkerschakelingen.</p>
+<h4 id="de-gemeenschappelijke-collectorschakeling-gcs">De gemeenschappelijke collectorschakeling (GCS) </h4>
+<p>Op dezelfde wijze als bij GBS en GCS kunnen we de stroom- en spanningsversterking en de in- en uitgangsimpedantie van de principeschakeling voor een GCS bepalen. De schakeling is weergegeven in figuur 2-25.</p>
+<p><img src="../assets/afbeelding_476.png" alt=""></p>
+<p>Figuur 2-25 : Gemeenschappelijke collectorschakeling</p>
+<p><strong><em>Stroomversterkingsfactor van een GCS</em></strong></p>
+<p>Bij een GCS-schakeling is de collector gemeenschappelijk en verbonden met massa. De ingangsstroom is en de uitgangsstroom . De stroomversterkingsfactor is als volgt te bepalen:</p>
+<p>De externe stromen en zijn gelijk aan :</p>
+<p>Invullen in de stroomversterkingsvergelijking van een GCS :</p>
+<p>De verhouding over is in de meeste situaties verwaarloosbaar waardoor de stroomversterking benaderend kan geschreven worden als:</p>
+<p>De stroomversterking voor een GCS kan ook geschreven worden als . Kenmerkend voor een GCS is dat deze een grote stroomversterking heeft. Van de drie schakelingen heeft GCS de grootste stroomversterking. Daarnaast is er ook een onderling verband tussen de stroomversterkingsfactoren van de schakelingen onderling. Dit verband is het volgende:</p>
+<p>Of:</p>
+<p>Ingangsimpedantie van een GCS</p>
+<p>De verhouding van de ingangsspanning op de ingangsstroom levert de ingangsimpedantie van de GCS-schakeling op. Vanuit figuur 2-25 kunnen we voor de ingangsimpedantie schrijven:</p>
+<p>De spanning kan geschreven worden als de som van de spanningen en . Tussen de collector en de emitter wordt de belasting van de GCS-schakeling aangesloten. Deze belasting staat bijgevolg parallel met de uitgang van de transistor. Dit betekent dat de spanning over de belasting gelijk is aan . is de spanning over de in doorlaat staande emitterjunctie. Hierdoor vloeit en de AC-weerstandswaarde van de emitterjunctie is gelijk aan . In formulevorm levert dit het volgende op:</p>
+<p>De verhouding van op is benaderend gelijk aan . De uiteindelijke ingangsimpedantie van de GCS-schakeling is dan gelijk aan:</p>
+<p>De ingangsimpedantie is relatief hoog voor een GCS. Zeker als de belastingsweerstand een grote waarde heeft en/of de stroomversterkingsfactor groot is.</p>
+<p>Uitgangsimpedantie van een GCS</p>
+<p>Voor de schakeling van figuur 2-25 kan je volgende vergelijking schrijven voor de uitgangsimpedantie:</p>
+<p>De uitgansimpedantie van een GCS is ongeveer gelijk aan de AC-weerstand van de emitterjunctie. Dit betekent dat de uitgangsimpedantie klein is. Een gevolg hiervan is dat een schakeling met een GCS aan de uitgang zich binnen een bepaald gebied als een ideale spanningsbron kan gedragen. Eveneens is de GCS bruikbaar als impedantietransformator om van een hoge impedantie over te gaan naar een lage impedantie.</p>
+<p>Spanningsversterking van een GCS</p>
+<p>Zoals in figuur 2-25 is te zien kan je de spanningsversterking als volgt schrijven:</p>
+<p>Splitsen we de spanning terug op in de som van de spanningen en dan bekomen we:</p>
+<p>Hieruit kan je concluderen dat de spanningsversterking van een GCS kleiner dan is. Vervangen we de spanningen via de wet van Ohm dan bekomen we:</p>
+<p>Dikwijls is veel kleiner dan zodat de spanningsversterking in die situatie ongeveer gelijk aan wordt.</p>
+<h3 id="transistorkarakteristieken">Transistorkarakteristieken </h3>
+<h4 id="de-transconductantiekarakteristiek">De transconductantiekarakteristiek </h4>
+<p>De stijlheid of transconductantantiekarakteristiek is &#xE9;&#xE9;n van de belangrijjkste karakteristieken van een transistor. De karakteristiek geeft de uitgangsstroom weer in functie van de ingangsspanning .</p>
+<p><img src="../assets/afbeelding_474.png" alt=""></p>
+<p>Figuur 2-26 : transconductantiekarakteristiek van een transistor</p>
+<p>Het verloop van de karakteristiek kom overeen met dit van een -junctie in doorlaat. Immers is de spanning over de emitterjunctie en deze is in doorlaat gepolariseerd. Vermits nagenoeg gelijk is aan en de doorlaatstroom van de emitterjunctie is, is het verloop van eveneens gelijk aan het verloop van de doorlaatstroom van een -junctie.</p>
+<p>De transconductantiekarakteristiek is vooral nuttig om de AC-weerstand van de emitterjunctie in doorlaat te bepalen. Voor stromen waarbij lager is dan kan men gebruik maken van volgende formule:</p>
+<p>Aangezien kan je ook de waarde van in bovenstaande formule gebruiken. De formule om te bepalen is echter een empirische formule. Bij grotere stromen dan wordt is deze formule niet nauwkeurig genoeg meer en maak je beter gebruik van de transconductantiekarakteristiek. In die situaties kan je gebruik maken van de transconductantiekarakteristiek. Je zet de stroom uit op de karakteristiek en neemt rond dit punt een bepaalde variatie. Je leest uit de grafiek de overeenkomstige -waarden af. De wisselstroomweerstand bij deze grotere stromen vind je dan met onderstaande formule:</p>
+<h4 id="uitgangskarakteristiek-van-een-transistor">Uitgangskarakteristiek van een transistor </h4>
+<p>Figuur 2-27(a) toont de uitgangskarakteristiek van een transistor als GES. De karakakteristiek kan worden opgenomen door de basisstroom constant te houden en vervolgens de spanningsbron te vari&#xEB;ren van tot een bepaalde spanningswaarde in een aantal stappen. Per ingestelde waarde van wordt de uitgangsspanning en de bijbehorende uitgangsstroom opgemeten.</p>
+<table>
+<thead>
+<tr>
+<th>Uitgangskarakteristiek (GES) bij een bepaalde</th>
+<th><img src="../assets/afbeelding_479.png" alt=""></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Uitgangskarakteristiek (GES) met verschillende -instellingen weergegeven</td>
+<td><img src="../assets/afbeelding_477.png" alt=""></td>
+</tr>
+</tbody>
+</table>
+<p>Figuur 2-27: Uitgangskarakteristiek van een transistor (GES)</p>
+<p>Het verloop van de uitgangskarakteristiek is een &#x201C;gebroken&#x201D; lijn. De stroom stijgt snel tussen de punten en bij een spanningsstijging van tot de spanningswaarde wordt bereikt. Deze spanning wordt de kniespanning genoemd en is de spanningswaarde in het punt . Daarna blijft de stroom nagenoeg constant tussen de punten en . Eens de -spanning in het punt overschreden wordt, stijgt de stroom terug zeer snel.</p>
+<p>Het verloop van de uitgangskarakteristiek is als volgt te verklaren. Zolang kleiner is dan worden niet alle vrije ladingsdragers die uit de emitter naar de basis vloeien aangetrokken door de collector. Naarmate toeneemt zullen ook meer ladingen overgaan van de basis naar de collector.</p>
+<p>Op het ogenblik dat praktisch alle ladingen overgaan naar de collector wordt de karakteristiek horizontaal. Dit gebeurt vanaf een collectorspanning gelijk aan . Vanaf dat moment staat de collectorjunctie in sper waardoor de collectorstroom gelijk wordt aan . In werkelijkheid zal lichtjes stijgen omdat de sperlaag van de collectorjunctie groter wordt. Eens de -spanning groter wordt dan de spanning in het punt zal de collectorstroom terug sterk beginnen stijgen. De transistor zit nu in zijn doorslag- of breakdown gebied. De spanning over de collectorjunctie is nu zodanig groot dat de sperrende junctie zal doorslaan. Ten gevolge van het avalanche effect zal de stroom zeer sterk stijgen met blijvende beschadiging tot gevolg.</p>
+<p>Zoals je in figuur 2-27 kan zien verandert de grootte van met de grootte van . Er is nagenoeg een lineair verband tussen en .</p>
+<h4 id="cutoff-toestand-en-saturatietoestand-van-een-transistor-op-een-belastingslijn">Cutoff-toestand en saturatietoestand van een transistor op een belastingslijn </h4>
+<p>Als gelijk is aan nul vloeit er geen maar enkel een kleine hoeveelheid lekstroom die te verwaarlozen is. De transistor bevindt zich dan in de toestand . In zijn zowel de emitterjunctie als de collectorjunctie in sper aangesloten. Vermits de collectorstroom zo goed als nul is, is de spanning over de collectorweerstand ongeveer gelijk aan . De spanning is dan nagenoeg gelijk aan de volledige voedingsspanning .</p>
+<p>Van zodra de emitterjunctie in doorlaat is gepolariseerd en de basisstroom wordt vergroot dan zal de collectorstroom eveneens vergroten. Het gevolg hiervan is dat de spanning over de collectorweerstand zal stijgen waardoor dan weer daalt.</p>
+<table>
+<thead>
+<tr>
+<th><img src="../assets/afbeelding_196.png" alt=""></th>
+<th><img src="../assets/afbeelding_198.png" alt=""></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ideaal saturatiepunt en cutoffpunt</td>
+<td>Werkelijk saturatiepunt en cutoffpunt</td>
+</tr>
+</tbody>
+</table>
+<p>Figuur 2-28 : saturatie en cutoff op een belastingslijn</p>
+<p>Wanneer voldoende groot is, staat ongeveer de volledige voedingsspanning over de collectorweerstand en nagenoeg geen spanning meer over de transistor. In het ideale geval is dan gelijk aan nul volt. Deze conditie staat bekend als saturatie (verzadiging). Saturatie treedt op als de voedingsspanning over de totale weerstand van het collectorcircuit staat. De verzadigingsstroom is te vinden met volgende formule:</p>
+<p>Van zodra hoog genoeg is om verzadiging te veroorzaken, is de formule voor de stroomversterking niet langer meer geldig. Er is immers dan geen lineair verband meer tussen basisstroom en collectorstroom. Ideaal is de saturatiespanning gelijk aan . Praktisch zal deze waarde zich meestal bevinden tussen de tot . kan oplopen tot voor vermogen-transistoren.</p>
+<p>De rechte lijn in figuur 2-28 tussen het saturatiepunt en cutoff stelt de belastingslijn van de schakeling voor. Het snijpunt van de belastingslijn met een horizontale lijn van uitgangskarakteristiek stelt het werkpunt of instellingspunt voor van de transistor (later meer hier over). Net zoals bij de diode liggen alle mogelijke instellingspunten die in de betreffende schakeling mogelijk zijn op deze belastingslijn.</p>
+<h3 id="test-jezelf-aangaande-de-bipolaire-junctietransistor">Test jezelf aangaande de bipolaire junctietransistor </h3>
+<ol>
+<li><p><strong>Wat is het verschil tussen een</strong> <strong>-transistor en een</strong> <strong>-transistor?</strong></p>
+</li>
+<li><p>Uit welke interne stromen is de uitwendige collectorstroom samengesteld?</p>
+</li>
+<li><p>Uit welke interne stromen is de uitwendige basisstroom samengesteld?</p>
+</li>
+<li><p><strong>Hoe kan je</strong> bepalen bij een eenvoudige transistorschakeling?</p>
+</li>
+<li><p>Omschrijf het begrip saturatie (verzadiging)</p>
+</li>
+<li><p>Omschrijf het begrip cutoff.</p>
+</li>
+<li><p>Aan wat is de spanningsversterking gelijk aan bij een GES?</p>
+</li>
+<li><p>Aan wat is de ingangsimpedantie gelijk aan bij een GBS?</p>
+</li>
+<li><p>Wat is het verband aan stroomversterking tussen GCS, GES en GBS?</p>
+</li>
+<li><p>Wat kan je bepalen via de transconductantiekarakteristiek?</p>
+</li>
+<li><p>Verklaar het verloop van de uitgangskarakteristiek van een GES.</p>
+</li>
+</ol>
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="de_halfgeleiderdiode.html" class="navigation navigation-prev " aria-label="Previous page: De halfgeleiderdiode">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="de_veldeffecttransistor_of_jfet.html" class="navigation navigation-next " aria-label="Next page: De Veldeffecttransistor of JFET">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"De bipolaire junctie transistor of BJT","level":"1.4.4","depth":2,"next":{"title":"De Veldeffecttransistor of JFET","level":"1.4.5","depth":2,"path":"pn-juncties/de_veldeffecttransistor_of_jfet.md","ref":"pn-juncties/de_veldeffecttransistor_of_jfet.md","articles":[]},"previous":{"title":"De halfgeleiderdiode","level":"1.4.3","depth":2,"path":"pn-juncties/de_halfgeleiderdiode.md","ref":"pn-juncties/de_halfgeleiderdiode.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["mathjax","livereload"],"pluginsConfig":{"mathjax":{"forceSVG":false,"version":"2.6-latest"},"livereload":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"pn-juncties/de_bipolaire_junctie_transistor_of_bjt.md","mtime":"2018-05-17T07:04:19.137Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-05-17T07:36:04.008Z"},"basePath":"..","book":{"language":""}});
+        });
+    </script>
+</div>
+
+        
+    <script src="../gitbook/gitbook.js"></script>
+    <script src="../gitbook/theme.js"></script>
+    
+        
+        <script src="https://cdn.mathjax.org/mathjax/2.6-latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-mathjax/plugin.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-livereload/plugin.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search-engine.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-sharing/buttons.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    </body>
+</html>
+

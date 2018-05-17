@@ -1,0 +1,5 @@
+# Analoge concepten {#analoge-concepten}
+
+Met de invloed van computers en andere digitale apparaten bestaat het gevaar om voorbij te gaan aan het feit dat vrijwel alle natuurverschijnselen die wij meten (bijvoorbeeld druk, debiet en temperatuur) van oorsprong analoge signalen zijn. In de elektronica worden transducers gebruikt om deze analoge hoeveelheden om te zetten in spanning of stroom. Meestal is versterking of een andere verwerking vereist voor deze signalen.
+
+Afhankelijk van de toepassing, kan ofwel digitale ofwel analoge technieken efficiënter zijn voor de verwerking van de signalen. Analoge schakelingen worden toegepast in bijna alle voedingen en in vele &quot;real-time&quot; toepassingen (zoals auto-snelheidscontroles), en hoogfrequente communicatiesystemen. Digitale verwerking is effectiever wanneer rekenkundige bewerkingen moeten worden uitgevoerd en heeft grote voordelen in het verminderen van de ruis inherent aan de verwerking van analoge signalen. Kortom, de twee kanten van de elektronica (analoog en digitaal) vullen elkaar aan, en de bevoegde technicus heeft kennis nodig van beide.
