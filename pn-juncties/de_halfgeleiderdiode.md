@@ -24,7 +24,7 @@ Wat is belangrijk?
 
 Forward bias, of de diode in geleiding instellen, is de conditie die toelaat dat er stroom vloeit door de -junctie. De term bias refereert naar een vaste gelijkspanning waarmee de werkingsvoorwaarde van de halfgeleidercomponent wordt vastgelegd. Aan de -junctie zijn twee aansluitdraden aangebracht. De aansluiting langs de -zijde wordt de anode genoemd en de aansluiting langs de -zijde de kathode. Dioden (of -juncties) staan in doorlaat als de anode positiever is dan de kathode. Dit wil zeggen dat als de anode positiever is dan de kathode bij silicium of als de anode positiever is dan de kathode bij germanium, de diode (-junctie) in geleiding staat.
 
-![](/assets\afbeelding_449.png)
+![](/assets/afbeelding_449.png)
 
 Figuur 2-7 : Diode (-junctie) in geleiding
 
@@ -34,7 +34,7 @@ Het werkingsprincipe is weergegeven in figuur 2-7\. Door het aansluiten van de v
 
 Reverse bias of de dioden in sper aansluiten is de conditie die verhindert dat er stroom zou vloeien door de -junctie. Figuur 2-8 toont wat er gebeurt als de diode in sper wordt aangesloten.
 
-![](/assets\afbeelding_452.png)
+![](/assets/afbeelding_452.png)
 
 Figuur 2-8 : Diode (-junctie) in sper
 
@@ -54,13 +54,13 @@ Wanneer de sperspanning blijft stijgen dan zal op een gegeven moment toch noemen
 
 Figuur 2-9 toont het standaard schemasymbool van een diode voor algemene doeleinden. De twee aansluitdraden van de dioden zijn, zoals rees is vermeld, de anode en de kathode. De pijl in het symbool wijst steeds de kathode aan.
 
-![](/assets\afbeelding_453.png)
+![](/assets/afbeelding_453.png)
 
 Figuur 2-9: schemasymbool van een diode
 
 Figur 2-10 (a) toont een diode in doorlaat geschakeld via een spanningsbron en een weerstand die de stroom begrensd. De anode is positiever dan de kathode waardoor er een relatief grote stroom door de schakeling vloeit. De spanning die over een diode in doorlaat staat is ongeveer gelijk aan de diffusiespanning . Voor een siliciumdiode wordt over het algemeen aangenomen dat deze spanningsval gelijk is aan . De spanning over de weerstand is dan gelijk aan de bronspanning waarvan de doorlaatspanning over de diode moet worden afgetrokken. In formulevorm:
 
-![](/assets\afbeelding_456.png)
+![](/assets/afbeelding_456.png)
 
 Figuur 2-10: voorbeeld van een diode in doorlaat en in sper geschakeld
 
@@ -70,7 +70,7 @@ In figuur 2-10 (b) is een voorbeeld gegeven van een diode die in sper is geschak
 
 Het rechtsboven kwadrant van de curve in figuuur 2-11 toont de doorlaatkarakteristiek van een diode. Beneden de diffusiespanning () vloeit er nagenoeg geen stroom in doorlaat. De stroom in doorlaat bij een diode wordt aangegeven als afkomstig van “Forward Current”. Op analoge wijze wordt de spanning in doorlaat aangegeven als . Voor germanium is de diffusiespanning ongeveer . Dit betekent dat beneden de er bij germanium nagenoeg geen stroom vloeit.
 
-![](/assets\afbeelding_31.png)
+![](/assets/afbeelding_31.png)
 
 Figuur 2-11: de diodekarakteristiek
 
@@ -80,7 +80,7 @@ Het kwadrant links beneden in de karakteristiek van de diode van figuur 2-11 too
 
 De diodekarakteristiek kan je weergeven op een oscilloscoop op de manier zoals in figuur 2-12 is weergegeven.
 
-![](/assets\afbeelding_451.png)
+![](/assets/afbeelding_451.png)
 
 Figuur 2-12: Weergeven van een diokarakteristiek op een oscilloscoop
 
@@ -90,9 +90,9 @@ De wisselspanningsbron heeft bij voorkeur een zaagtandvormige golfvorm. Je kan d
 
 De inwendige batterij van bijna alle Ohmmeters is in staat om een diode in doorlaat of in sper te plaatsen. Dit laat toe om snel na te gaan of een diode nog bruikbaar is of niet. Veel digitale multimeters hebben een diode testpositie die de diode in doorlaat zal aangeven en een overbelasting zal weergeven als de diode in sper staat. Indien deze voorziening niet aanwezig is kan je de Ohmmeter is een bereik plaatsen waar je een honderdtal Ohm kan meten. Plaats de meterkabels zodanig dat de diode in doorlaat staat en vervolgens keer de je de kabels om. Het gevolg is dat de meter een lagere weerstand meet als de diode in doorlaat staat. De weerstand in sper geeft een factor of meer verschil met de weerstand in doorlaat. De exacte weerstandswaarde is afhankelijk van het type diode en batterijspanning van de Ohmmeter.
 
-| ![](/assets\afbeelding5.jpg) | ![](/assets\afbeelding_6.jpg) |
+| ![](/assets/afbeelding5.jpg) | ![](/assets/afbeelding_6.jpg) |
 | --- | --- |
-| ![](/assets\afbeelding9.jpg) | ![](/assets\afbeelding12.jpg) |
+| ![](/assets/afbeelding9.jpg) | ![](/assets/afbeelding12.jpg) |
 | Diode in doorlaat levert een lage weerstandswaarde op (in dit voorbeeld is de doorlaatweerstand gelijk aan Merk op dat deze waarde vooral afhankelijk is van de batterijspanning van de meter) | Diode in sper levert een hoge weerstandwaarde op (in dit voorbeeld geeft de meter aan dat de waarde hoger is dan het ingestelde bereik om te meten) |
 
 Figuur 2-13: Meting met multimeter ter bepaling of een diode al dan niet stuk is
@@ -103,7 +103,7 @@ Het ideale model
 
 In het ideale model wordt de diode aanzien als een schakelaar. Een diode in doorlaat komt hierin overeen met een gesloten schakelaar en een diode in sper met een open schakelaar. Figuur 2-13 geeft deze relatie tussen de diode en een schakelaar weer.
 
-![](/assets\afbeelding_468.png)
+![](/assets/afbeelding_468.png)
 
 Figuur 2-13 : Ideaal model van een diode (diode als schakelaar)
 
@@ -113,7 +113,7 @@ Het offset model
 
 Het offset model bestaat uit het ideale model uitgebreid met de diffusiespanning. Deze wordt voorgesteld als een kleine spanningsbron van (silicium) in serie met de schakelaar. De positieve klem van de spanningsbron is verbonden met de anode. Hierdoor zal de instelspanning of bronspanning deze eerst moeten overwinnen vooraleer de diode in geleiding komt.
 
-![](/assets\afbeelding_469.png)
+![](/assets/afbeelding_469.png)
 
 Figuur 2-14 : Offset model van een diode
 
@@ -123,7 +123,7 @@ Het offset-weerstand model
 
 Figuur 2-15 toont het offset-weerstand model van een diode in geleiding. De weerstand in doorlaat is in principe een AC-weerstand. Afhankelijk van de spanningswaarde over de diode varieert deze weerstand. Is de voorwaartse spanningsval kleiner dan de diffusiespanning dan is deze weerstandswaarde relatief hoog. Van zodra de diffusiespanning bereikt wordt daal deze weerstanswaarde sterk. Eens de spanning lichtjes hoger wordt dan de diffusiespannig kan de weerstandsverandering voorgesteld worden als een quasi lineaire benadering.
 
-![](/assets\afbeelding_461.png)
+![](/assets/afbeelding_461.png)
 
 Figuur 2-15: Offset-weerstand model van een diode
 

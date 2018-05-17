@@ -18,7 +18,7 @@ Wat is belangrijk?
 
 De elektrische eigenschappen van een materiaal kunnen verklaard worden aan de hand van hun atoomstructuur. Figuur 2-1 toont een siliciumatoom volgens het Bohr-model.
 
-![](/assets\afbeelding_10.png)
+![](/assets/afbeelding_10.png)
 
 Figuur 2-1 : neutraal Si-atoom met 14 elektronen en protonen
 
@@ -28,7 +28,7 @@ Een atoom bestaat uit een kern welke positieve ladingen (protonen) en ongeladen 
 
 Metalen zijn vaak vaste stoffen bij kamertemperatuur. De kern van een metaalatoom en de binnenste elektronen nemen vaste posities in. Valentie-elektronen bevinden zich in de buitenste schil die valentieband wordt genoemd. Deze elektronen zijn “losjes” en kunnen zich vrij gemakkelijk losmaken van hun atomen waardoor ze tussen de metaalionen door kunnen bewegen in een band die de geleidingsband of conductieband wordt genoemd. Deze vrije elektronen zorgen voor een stroom van negatieve ladingen binnen de structuur waardoor de positief geladen ionen bij elkaar worden gehouden. Men noemt dit metaalbinding.
 
-![](/assets\afbeelding_17.png)
+![](/assets/afbeelding_17.png)
 
 Figuur 2-2 : verschil geleider, halfgeleider en isolator op energieniveau
 
@@ -48,13 +48,13 @@ Wat is nu het belangrijkste verschil tussen een isolator en een halfgeleider? Di
 
 Als een elektron naar de geleidingsband springt, blijft er een lege ruimte over bij het atoom. Deze lege ruimte wordt een gat (of hole) genoemd. Voor ieder elektron dat - ten gevolge van de warmte-energie - naar de geleidingsband verdwijnt, blijft er een gat over in de valentieband. Met noemt dit de creatie elektron-gat paar. Recombinatie vindt plaats als een vrij elektron energie verliest en terugvalt in een gat in de valentieband. Bij kamertemperatuur heet een stukje intrinsiek (zuiver) silicium op ieder moment een hoeveelheid vrije elektronen in de geleidingsband en een gelijk aantal gaten in de valentieband.
 
-![](/assets\afbeelding_27.png)
+![](/assets/afbeelding_27.png)
 
 Figuur 2-3: creatie elektron-gat paar
 
 Legt men een spanning aan over dit stukje intrinsiek siliciumm dan zullen de vrije elektronen gemakkelijk worden aangetrokken door de positieve klem van de spanningsbron. Deze beweging van elektronen is een type van stroom door een halfgeleider en wordt de elektronenstroom genoemd. Een ander stoort van stroom ontstaat er in de valentieband. Als een een elektron de valentieband verlaat ontstaat er een gat in de kristalstructuur. Een valentie-elektron kan met een beetje extra energie zich verplaatsen naar een nabijgelegen gat in de kristalstructuur en laat op zijn beurt een nieuw gat achter. Men kan zich voorstellen dat in dit geval het gat zich verplaatst heeft in de kristalstructuur van de ene positie naar de andere. Deze stroom wordt de gatenstroom genoemd. Merk op dat deze gatenstroom tegengesteld vloeit aan de stroom van valentie-elektronen.
 
-![](/assets\afbeelding_28.png)
+![](/assets/afbeelding_28.png)
 
 Figuur 2-4: verplaatsing van gaten in een intrinsieke halfgeleider
 

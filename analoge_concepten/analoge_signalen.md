@@ -14,7 +14,7 @@ Signalen kan je onderverdelen in continue en discrete signalen. Onder een contin
 
 Een analoog signaal kan bestaan uit een herhalende golfvorm zoals bijvoorbeeld een sinusgolf. Een analoog signaal kan eveneens bestaan uit een continu variërend signaal zoals bijvoorbeeld een audiosignaal. Dit continu variërend signaal bevat bepaalde informatie welke kan bestaan uit muziek, bepaalde geluiden, gesproken woord, een bepaalde sensortoestand, ….
 
-| ![](/assets\afbeelding_2.png) | ![](/assets\afbeelding_3.png) |
+| ![](/assets/afbeelding_2.png) | ![](/assets/afbeelding_3.png) |
 | --- | --- |
 | As verdraaiing gemeten met digitale waarden (vb : postiebepaling aan de hand van 8 detecteerbare posities) | As verdraaiing op analoge manier (iedere stand van de as heeft zijn eigen specifieke waade) |
 
@@ -28,7 +28,7 @@ Analoge signalen zijn relatief eenvoudig. Ze hebben een hoge verwerkingssnelheid
 
 Zoals reeds gezegd hebben veel signalen hun oorsprong in natuurlijke fenonemen. Druk- of temperatuurmetingen zijn hiervan een goed voorbeeld. De uitgangssignalen van een transducer zijn typisch in analoge vorm. Een microfoon bijvoorbeeld genereerd een klein analoog signaal dat eerst moet versterkt worden via een versterker voordat het signaal kan worden omgevormd naar een digitaal signaal. Dit omvormen naar een digitaal signaal wordt dikwijls gedaan om storing te vermijden, het verder te verwerken of te verzenden. Omvorming van analoog naar digitaal kan worden uitgevoerd als een proces in twee stappen. Sampling en kwantisatie. Sampling is het proces waarmee het analoog signaal wordt onderverdeeld in zogenaamde “time-slices” welke het originele signaal benadert. Gedurende dit proces wordt steeds wat informatie verloren. Dit verlies weegt niet op tegen de voordelen aangaande ruisonderdrukking, het digitaal kunnen bewaren of het gemakkelijk te kunnen verzenden. Na sampling krijgen de “time-slices” een bepaalde numerieke waarde. Kwantisatie zet de amplituden van de time-slices om in getallen die verwerkt kunnen worden door digitale computers en/of andere digitale systemen. Figuur 1-5 toont het sampling en kwantisatieproces.
 
-![](/assets\afbeelding_4.png)
+![](/assets/afbeelding_4.png)
 
 Figuur 1-5 : digitalisering van een analoog signaal
 
@@ -36,7 +36,7 @@ Meestal moeten digitale signalen terug geconverteerd worden in het originele ana
 
 Een GSM is een voorbeeld van een elektronisch systeem dat zowel analoge als digitale signalen bevat. Een visuele weergave van de elektronische elementen in zo’n GSM is weergegeven in figuur 1-6\. Via de microfoon wordt het stemgeluid opgevangen en doorgestuurd naar een analoog naar digitaal convertor die het analoge signaal digitaliseerd. Vervolgens wordt dit digitale signaal gemoduleerd op een analoge draaggolf en verzonden naar een GSM-mast. Wanneer de GSM een inkomend signaal ontvangt van de GSM-mast, wordt digitale informatie ontvangen die gemoduleerd is op een analoge draaggolf. Dit signaal wordt versterkt door een zogenaame LNA (Low Noice Amplifier of ruisarme versterker) en vervolgens naar beneden geconverteerd naar een lagere analoge draaggolffrequentie. De digitale voicedata wordt dan gedemoduleerd en terug omgevormd naar een analoog signaal dat via een audiovermogenversterker naar de luidspreker wordt verstuurd.
 
-![](/assets\afbeelding_7.png)
+![](/assets/afbeelding_7.png)
 
 Figuur 1-6 : blokschematische voorstelling van de elektronische componenten van een GSM-toestel
 

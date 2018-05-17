@@ -70,7 +70,7 @@ De junctie FET of JFET is een unipolaire transistor. Deze halfgeleidercomponent 
 
 In figuur 2-30(a) is de opbouw van een -kanaal JFET weergegeven. Deze JFET wordt ingesteld met een - en -spanningsbron. Het onderste gedeelt van de JFET wordt de &quot;Source&quot; (bron) genoemd en het bovenste gedeelte de &quot;Drain&quot; (afvoer).
 
-![](/assets\afbeelding_192.png)
+![](/assets/afbeelding_192.png)
 
 Figuur 2-30 : principewerking N-kanaal JFET
 
@@ -84,7 +84,7 @@ alleen zal de uitgangsstroon controleren.
 
 Het bovengenoemd verschil tussen JFET en bipolaire transistor kunnen we in termen van weerstand uitdrukken. De ingangsweerstand van een JFET is, ideaal gezien, oneindig groot. In werkelijkheid bedraagt deze ingangsweerstand in de megaohms, afhankelijk van het gebruikte JFET-type. Daarom wordt de JFET gebruikt in de toepassingen waar een hoge ingangsweerstánd vereist is. Het nadeel van deze hoge ingangsweerstand is dat de JFET minder gevoelig is aan spanningsvariaties aan de ingang dan de bipolaire transistor. Zo zal bijvoorbeeld praktisch iedere JFET bij een verandering van de ingangsspanning met , een verandering in de uitgangsstroom van minder dan hebben. Terwijl bij de bipolaire transistor deze ingangsverandering van gemakkelijk een verandering van de uitgangsstroon van meer dan 10 mA teweegbrengt.
 
-![](/assets\afbeelding_467.png)
+![](/assets/afbeelding_467.png)
 
 Figuur 2-31: Symbolen JFET
 
@@ -100,7 +100,7 @@ Voor normale werking van de JFET is de gate in sper aangesloten. Een speciaal ge
 
 dat er geen spanning aan de gate is aangesloten waardoor gelijk is aan nul volt. Deze toestand wordt ook de kortgesloten gate-conditie genoemd. Figuur 2-32 geeft de uitgangskarakteristiek weer van een gemeenschappelijke source schakeling (GSS) weer met de gate kortgesloten.
 
-![](/assets\afbeelding_193.png)
+![](/assets/afbeelding_193.png)
 
 Figuur 2-32 : de uitgangskarakteristiek van een JFET met kortgesloten gate
 

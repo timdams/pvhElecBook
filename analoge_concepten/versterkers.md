@@ -26,7 +26,7 @@ Hierbij stelt de spanningsversterking voor van de versterker, de spanning van he
 
 Alle versterkers hebben bepaalde grenzen waarboven ze niet meer als ideaal werken. Eens de ingangsspanning groter wordt dan deze grens, wordt het verzadigingspunt bereikt. Vanaf het verzadigingspunt volgt de uitgang niet langer meer de ingang en treedt er vervorming op.
 
-![](/assets\afbeelding_15.png)
+![](/assets/afbeelding_15.png)
 
 Figuur 1-9 : voorbeeld van een transfertkarakteristiek van een lineaire versterker
 
@@ -34,7 +34,7 @@ Voorbeeld 1-3
 
 Het in- en uitgangssignaal van een lineaire versterker is in figuur 1-10 weergegeven. Hoeveel bedraagt de spanningsversterking van deze versterker?
 
-![](/assets\afbeelding_18.png)
+![](/assets/afbeelding_18.png)
 
 Figuur 1-10
 
@@ -64,7 +64,7 @@ Versterkers bestaan meestal uit transistoren, weerstanden, condensatoren, opamps
 
 De uitgang van de versterker kan getekend worden als Thevenin- of Norton -equivalent. Ook dit is weergegeven in figuur 1-11\. De magnitude van de bron in de versterker is afhankelijk van de onbelaste versterking en de ingangsspanning.
 
-![](/assets\afbeelding_20.png)
+![](/assets/afbeelding_20.png)
 
 Figuur 1-11 : voorstelling van een versterker via zijn equivalente ingangsweerstand en afhankelijk uitgangscircuit
 
@@ -74,7 +74,7 @@ In cascade schakelen van versterkertrappen
 
 Zoals hierboven is beschreven maken Thevenin- en Nortonmodellen van de versterker het gemakkelijker voor het analyseren van versterkersystemen. Deze equivalente schema’s zijn ook bruikbaar wanneer meerdere versterkertrappen in cascade worden geschakeld. Hiermee kunnen analyses uitgevoerd worden waarmee nagegaan kan worden wat de invloed is van de interne belasting op bijvoorbeeld de eerste versterkertrap op de totale versterking. Figuur 1-12 toont het equivalent schema van een tweetrapsversterker. De totale versterking is beïnvloed door de belastingseffecten van ieder van de drie lussen. Iedere lus bestaat uit een eenvoudige serieschakeling zodat de spanningen via de formule voor spanningsdeling gemakkelijk berekent kunnen worden.
 
-![](/assets\afbeelding_21.png)
+![](/assets/afbeelding_21.png)
 
 Figuur 1-12 : Cascadeschakeling van twee versterkertrappen
 
@@ -82,7 +82,7 @@ Voorbeeld 1-4
 
 Stel een transducer met een Thevin onbelaste bron met spanning en een Thevenin bronweerstand gelijk aan Deze transducer is verbonden met een tweetraps versterker met de kenmerken zoals in figuur 1-13 is weergegeven. Bereken de spanning over de belastingsweerstand van .
 
-![](/assets\afbeelding_24.png)
+![](/assets/afbeelding_24.png)
 
 Figuur 1-13
 

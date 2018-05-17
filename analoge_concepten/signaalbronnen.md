@@ -24,7 +24,7 @@ Een hulpmiddel om de werking van een schakeling te doorgronden is het gebruik va
 
 Deze stroom is de maximale stroom die door de Thevenin-schakeling kan vloeien (zie figuur 1-7 (b)). Stel nu dat de belastingsweerstand gelijk is aan oneindig. De stroom door de schakeling is dan gelijk aan mA en de spanning over de belasting is dan gelijk aan de Theveninspanning (). Dit is het punt dat de maximale spanning over de belasting weergeeeft. Tussen deze twee punten kan een lijn worden getrokken. Deze lijn wordt de belastingslijn genoemd. In dit geval is dit de belastingslijnn voor de Theveninschakeling in figuur 1-7 (a). Aangezien de belastingslijn een rechte is, is het voldoende om de twee voornoemde punten te bepalen. De belastingslijn geeft alle mogelijke stroomwaarden en spanningswaarden weer die de Theveninschakeling kan leveren aan zijn belasting
 
-| ![](/assets\afbeelding_8.png) | ![](/assets\afbeelding_11.png) |
+| ![](/assets/afbeelding_8.png) | ![](/assets/afbeelding_11.png) |
 | --- | --- |
 | Schakeling met component en belasting | Belastingslijn van de schakeling in deel (a) |
 
@@ -60,7 +60,7 @@ Of na verdere uitwerking :
 
 Het equivalent schema is gelijk aan :
 
-![](/assets\afbeelding_13.png)
+![](/assets/afbeelding_13.png)
 
 Figuur 1-8: Thevenin-equivalent van het piëzo-elektrisch kristal
 

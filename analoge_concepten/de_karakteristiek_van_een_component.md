@@ -24,7 +24,7 @@ De kenmerken van elektronische basiscomponenten, zoals weerstanden en dioden, ku
 
 In algebra is een lineaire vergelijking een vergelijking dat een rechte weergeeft tussen 2 variabelen in de vorm van : . Hierbij stelt de afhankelijke variabele voor, de onafhankelijke variabele en de richtingscoëfficiënt van de helling die de rechte maakt met de as. Het snijpunt met de as wordt weergegeven door .
 
-![](/assets\afbeelding_1.png)
+![](/assets/afbeelding_1.png)
 
 Figuur 1-1 : I-U karakteristiek voor twee weerstanden (blauw en rood)
 
@@ -56,7 +56,7 @@ De interne weerstand (AC-weerstand) wordt ook dynamische weerstand of small sign
 
 In figuur 1-2 varieert de richtingscoëfficiënt van de curve sterk. Dit houdt in dat het punt waarbij de AC-weerstand wordt gemeten gespecificeerd moet worden. Bijvoorbeeld de ac-weerstand in het punt en kan gevonden worden door rond dit punt een klein gebied af te baken waarbij de spanning en stroom wordt opgemeten. Dit is voorgesteld door de driehoek in figuur 1-2\. De AC-weerstand wordt dan gevonden door de verhouding te nemen van de spanningsverandering ten opzichte van de stroomverandering. In formulevorm:
 
-![](/assets\afbeelding_448.png)
+![](/assets/afbeelding_448.png)
 
 Figuur 1-2 : bepalen van in een punt van de niet-lineaire karakteristiek van een diode
 

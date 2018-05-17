@@ -28,7 +28,7 @@ opto-electronische ontwerpen en microprocessoren.
 
 ### Opbouw en principewerking van een transistor {#opbouw-en-principewerking-van-een-transistor}
 
-![](/assets\afbeelding_466.png)
+![](/assets/afbeelding_466.png)
 
 Figuur 2-16 : opbouw van een NPN-transistor
 
@@ -38,19 +38,19 @@ electronen, afkomstig van de basis, opvangt. De collector is ook de grootste van
 
 De figuur 2-17 toont de structuur van een PNP-transistor.
 
-![](/assets\afbeelding_475.png)
+![](/assets/afbeelding_475.png)
 
 Figuur 2-17: opbouw van een PNP-transistor
 
 De figuren 2-16 en 2-17 geven de meerderheidsladingsdragers en minderheidsladingsdragers weer voor de - respectievelijk -transistor. Net als bij de diode zullen er ook vrije elektronen diffunderen door beide juncties zodat ook hier op de grens van de -juncties een diffusielaag ontstaat. Ook hier onstaat over de diffusielaag een diffusiespanning van bij als de kristallen uit siliciium bestaan ( voor germaniumkristallen). Vermits de drie gebieden verschillende doperingsgraden (verontreingingsgraden) hebben,zullen de diffusielagen verschillende breedtes hebben. Hoe groter de dopering, hoe groter de concentratie van ionen in de onmiddellijke omgeving van de junctie. Dit betekent dat de diffusielaag heel klein in het emittergebied maar relatief groot in de basis. Tussen basis en collector heeft men een analoog verschijnsel. In de basis is de diffusielaag relatief groot en kleiner in het collectorgebied. Het ontstaan van de diffusielagen voor een NPN-transistor is in figuur 2-18 weergegeven.
 
-![](/assets\afbeelding_470.png)
+![](/assets/afbeelding_470.png)
 
 Figuur 2-18: op het grensgebied van de kristallen ontstaan PN-juncties
 
 Als de emitterjunctie in doorlaat wordt aangesloten en de collectorjunctie in sper gebeurt er iets onverwachts. We verwachten met deze instelling een grote emitterstroom daar deze junctie in doorlaat ingesteld is. Vermits de collectorjunctie in sper is aangeloten hadden we niet verwacht daar ook een grote stroom aan te treffen. Toch is dit precies wat er gebeurt met deze instelling. Dit is ook de reden waarom een transistor een grote uitvinding is.
 
-![](/assets\afbeelding_472.png)
+![](/assets/afbeelding_472.png)
 
 Figuur 2-19: emitterjuinctie in doorlaat en collectorjunctie in sper gepolariseerd
 
@@ -66,7 +66,7 @@ In de meeste transistortypen vloeit meer dan van de uit de emitter komende elekt
 
 In figuur 2-20 zijn de schemasysmbolen voor eenn -transistor en -transistor weergegeven. De pijl in het transistorsymool duidt de emitter aan. Als deze pijl naar binnen is gericht hebben we te maken met een -transistor en is deze pijl naar buiten gericht met een -transitor.
 
-![](/assets\afbeelding_454.png)
+![](/assets/afbeelding_454.png)
 
 Figuur 2-20 : symbool voor - en -transistor
 
@@ -78,7 +78,7 @@ Wat ons vooral interesseert bij deze schakelingen is de versterkingsfactor die d
 
 Bij de GBS, zie figuur 2-21, wordt het ingangssignaal aangelegd tussen emitter en basis, het uitgangssignaal wordt afgeleid via de collector en de basis. De basis is zowel aan de ingang als aan de uitgang terug te vinden en is hierdoor de gemeenschappelijke aansluiting. Normaal wordt de gemeenschappelijke aansluiting met de massa verbonden. De emiiterstroom is de ingangsstroom en de collectorstroom is de uitgangsstroom.
 
-![](/assets\afbeelding_465.png)
+![](/assets/afbeelding_465.png)
 
 Figuur 2-21 : Gemeenschappelijke basisschakeling
 
@@ -86,7 +86,7 @@ De transistor kan aanzien worden als een knooppunt. Toepassing van de stroomwet 
 
 Figuur 2-22 toont de stromen binnen in de transistor en deze die er in- en uit vloeien.
 
-![](/assets\afbeelding_471.png)
+![](/assets/afbeelding_471.png)
 
 Figuur 2-23 : De stromen door een transistor
 
@@ -132,7 +132,7 @@ Algemeen vind je GBS-schakelingen vooral terug in hoogfrequent-schakelingen. Ze 
 
 In deze schakeling is de emitter als gemeenschappelijke aansluiting geschakeld en met de massa verbonden. De principeschakeling is weergegeven in figuur 2-24\. Schakelingen gebaseerd op GES komen veelvuldig voor. Ook hier kunnen we terug nagaan wat de stroom- en spanningsversterking van de schakeling is en hoeveel de in- en uitgangsimpedantie bedraagt.
 
-![](/assets\afbeelding_473.png)
+![](/assets/afbeelding_473.png)
 
 Figuur 2-24: de gemeenschappelijke emitterschakeling (GES)
 
@@ -190,7 +190,7 @@ Het minteken duidt op faseverschuiving tussen de uitgang en de ingang. De GES is
 
 Op dezelfde wijze als bij GBS en GCS kunnen we de stroom- en spanningsversterking en de in- en uitgangsimpedantie van de principeschakeling voor een GCS bepalen. De schakeling is weergegeven in figuur 2-25\.
 
-![](/assets\afbeelding_476.png)
+![](/assets/afbeelding_476.png)
 
 Figuur 2-25 : Gemeenschappelijke collectorschakeling
 
@@ -240,7 +240,7 @@ Dikwijls is veel kleiner dan zodat de spanningsversterking in die situatie ongev
 
 De stijlheid of transconductantantiekarakteristiek is één van de belangrijjkste karakteristieken van een transistor. De karakteristiek geeft de uitgangsstroom weer in functie van de ingangsspanning .
 
-![](/assets\afbeelding_474.png)
+![](/assets/afbeelding_474.png)
 
 Figuur 2-26 : transconductantiekarakteristiek van een transistor
 
@@ -254,9 +254,9 @@ Aangezien kan je ook de waarde van in bovenstaande formule gebruiken. De formule
 
 Figuur 2-27(a) toont de uitgangskarakteristiek van een transistor als GES. De karakakteristiek kan worden opgenomen door de basisstroom constant te houden en vervolgens de spanningsbron te variëren van tot een bepaalde spanningswaarde in een aantal stappen. Per ingestelde waarde van wordt de uitgangsspanning en de bijbehorende uitgangsstroom opgemeten.
 
-| Uitgangskarakteristiek (GES) bij een bepaalde | ![](/assets\afbeelding_479.png) |
+| Uitgangskarakteristiek (GES) bij een bepaalde | ![](/assets/afbeelding_479.png) |
 | --- | --- |
-| Uitgangskarakteristiek (GES) met verschillende -instellingen weergegeven | ![](/assets\afbeelding_477.png) |
+| Uitgangskarakteristiek (GES) met verschillende -instellingen weergegeven | ![](/assets/afbeelding_477.png) |
 
 Figuur 2-27: Uitgangskarakteristiek van een transistor (GES)
 
@@ -274,7 +274,7 @@ Als gelijk is aan nul vloeit er geen maar enkel een kleine hoeveelheid lekstroom
 
 Van zodra de emitterjunctie in doorlaat is gepolariseerd en de basisstroom wordt vergroot dan zal de collectorstroom eveneens vergroten. Het gevolg hiervan is dat de spanning over de collectorweerstand zal stijgen waardoor dan weer daalt.
 
-| ![](/assets\afbeelding_196.png) | ![](/assets\afbeelding_198.png) |
+| ![](/assets/afbeelding_196.png) | ![](/assets/afbeelding_198.png) |
 | --- | --- |
 | Ideaal saturatiepunt en cutoffpunt | Werkelijk saturatiepunt en cutoffpunt |
 
