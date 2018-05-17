@@ -1,4 +1,4 @@
 {
-   
+    "gitbook": "4.x.x",
     "plugins": ["mathjax"]
 }
