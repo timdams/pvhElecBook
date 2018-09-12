@@ -9,7 +9,7 @@ De manier om een gemeten waarde correct weer te geven met het juiste aantal bedu
 
 *   De manier om getallen correct af te ronden
 
-### Fout, nauwkeurigheid en precisie {#fout-nauwkeurigheid-en-precisie}
+### Fout, nauwkeurigheid en precisie 
 
 Metingen die je uitvoert aan een elektronisch circuit zijn niet perfect omdat de nauwkeurigheid van de meetresultaten afhankelijk zijn van de nauwkeurigheid van de meetapparatuur en de omstandigheden waaronder de meting is uitgevoerd. Als je de meetresultaten gaat rapporteren dien je rekening te houden met de fout die geassocieerd is met de meting. De gemeten fout mag niet gezien worden als een echte fout; eerder als een benadering van de werkelijke waarde.
 
@@ -29,7 +29,7 @@ Figuur 1-12 : onderscheid tussen precisie en nauwkeurigheid
 
 In de situatie waarbij de schutter heel precies en heel nauwkeurig is (fig. 1-12 (b)), zijn alle kogelinslagen in het midden van het doel. Als de schutter wel nauwkeurig mikt maar niet precies is (Fig. 1-12 (c)), zijn de kogelinslagen dicht bij het midden van het doel, maar liggen ze niet samen. Als hij zowel niet precies als nauwkeurig schiet (Figuur 1-12 (d)), liggen de kogelinslagen her en der verspreid op het doel.
 
-### Beduidende cijfers {#beduidende-cijfers}
+### Beduidende cijfers 
 
 De cijfers in een gemeten getal waarvan bekend is dat ze correct zijn worden beduidende cijfers of significante cijfers (digits) genoemd. De meeste meetinstrumenten tonen het juiste aantal significante cijfers. Sommige meetinstrumenten kunnen cijfers die niet significant zijn weergeven en laten het aan de gebruiker over om te bepalen wat moet worden gerapporteerd. Dit kan optreden als gevolg van een effect genaamd belastingseffect (zie hoofdstuk 6 sectie 4). Een meter kan de actuele meting in een circuit beïnvloeden door zijn aanwezigheid. Denk hierbij aan de inwendige weerstand van de meter. Het is belangrijk om te herkennen wanneer een meting onnauwkeurig kan zijn. Bij onnauwkeurigheden moet je niet de cijfers vermelden waarvan bekend is dat ze onjuist zijn.
 
@@ -123,7 +123,7 @@ Oplossing
 
 4.  **682,53** wordt afgerond tot **682**
 
-### Test jezelf aangaande gemeten waarden {#test-jezelf-aangaande-gemeten-waarden}
+### Test jezelf aangaande gemeten waarden 
 
 1.  Wat is de regel om nullen weer te geven in een getal aan de rechterzijde van de komma?
 
