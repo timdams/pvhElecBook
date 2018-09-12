@@ -1,4 +1,4 @@
-Gemeten waarden {#voorbeeld-1-8-converteer-2500-nanovolt-2500-nv-om-tot-microvolt-v-oplossing-via-tabel-1-3-zien-we-dat-micro-overeenkomt-met-103-nano-dit-betekent-dat-als-we-het-aantal-nanovolt-willen-omzetten-naar-microvolt-we-het-aantal-nanovolt-moeten-delen-door-103-of-1000-wat-overeenkomt-met-de-komma-drie-plaatsen-naar-links-te-verschuiven-2500-nv-2500-x-10-9-v-2-5-x-10-6-v-2-5-v-gemeten-waarden}
+## Gemeten waarden 
 
 Wanneer een bepaalde hoeveelheid van een grootheid wordt gemeten, is er onzekerheid in het resultaat als gevolg van de beperkingen van de meetinstrumenten. Dikwijls bevat een meting een hoeveelheid geschatte waarden. Denk aan het laatste cijfer van een display dat meestal een afronding van de werkelijke waarde geeft. De cijfers waarvan zeker is dat ze correct zijn worden de beduidende cijfers (significant digits) genoemd. Bij het rapporteren van gemeten hoeveelheden moet de weergegeven meetwaarde bestaan uit de beduidende cijfers en maximaal één cijfer dat onzeker is (afgerond).
 
