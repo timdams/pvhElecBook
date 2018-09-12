@@ -1,5 +1,4 @@
-## Gemeten waarden 
-
+## Gemeten waarden
 Wanneer een bepaalde hoeveelheid van een grootheid wordt gemeten, is er onzekerheid in het resultaat als gevolg van de beperkingen van de meetinstrumenten. Dikwijls bevat een meting een hoeveelheid geschatte waarden. Denk aan het laatste cijfer van een display dat meestal een afronding van de werkelijke waarde geeft. De cijfers waarvan zeker is dat ze correct zijn worden de beduidende cijfers (significant digits) genoemd. Bij het rapporteren van gemeten hoeveelheden moet de weergegeven meetwaarde bestaan uit de beduidende cijfers en maximaal één cijfer dat onzeker is (afgerond).
 
 Wat onthoud je best na deze sectie?
