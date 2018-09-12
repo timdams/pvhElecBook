@@ -1,6 +1,6 @@
 # Summary
 
-* [PATJBINALBIJNA](README.md)
+* [Introductie](README.md)
 * [ Systemen, hoeveelheden en eenheden](systemen,_hoeveelheden_en_eenheden\README.md)
   * [ De elektronica-industrie](systemen,_hoeveelheden_en_eenheden\de_elektronica-industrie.md)
   * [ Introductie van elektronische systemen](systemen,_hoeveelheden_en_eenheden\introductie_van_elektronische_systemen.md)
