@@ -7,7 +7,7 @@
   * [ Soorten schakelingen](systemen,_hoeveelheden_en_eenheden\soorten_schakelingen.md)
   * [ Wetenschappelijke en technische (engineering) notatie](systemen,_hoeveelheden_en_eenheden\wetenschappelijke_en_technische_engineering_notati.md)
   * [ Eenheden en metrische voorvoegsels (prefixen)](systemen,_hoeveelheden_en_eenheden\eenheden_en_metrische_voorvoegsels_prefixen.md)
-  * [   Voorbeeld 1-8 Converteer 2500 nanovolt (2500 nV) om tot microvolt (µV) Oplossing Via tabel 1-3 zien we dat micro overeenkomt met 103 nano. Dit betekent dat als we het aantal nanovolt willen omzetten naar microvolt we het aantal nanovolt moeten delen door 103 of 1000 wat overeenkomt met de komma drie plaatsen naar links te verschuiven. 2500 nV = 2500 x 10-9 V = 2,5 x 10-6 V = 2,5 µV    Gemeten waarden](systemen,_hoeveelheden_en_eenheden\voorbeeld_1_-_8_converteer_2500_nanovolt_2500_nv_o.md)
+  * [ Gemeten waarden](systemen,_hoeveelheden_en_eenheden\gemeten_waarden.md)
   * [ Elektrische veiligheid](systemen,_hoeveelheden_en_eenheden\elektrische_veiligheid.md)
   * [ Waar/niet waar vragen](systemen,_hoeveelheden_en_eenheden\waarniet_waar_vragen.md)
   * [ Multiple choice test](systemen,_hoeveelheden_en_eenheden\multiple_choice_test.md)
