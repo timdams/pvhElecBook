@@ -15,9 +15,13 @@ Metingen die je uitvoert aan een elektronisch circuit zijn niet perfect omdat de
 
 Het verschil tussen de werkelijke of best geaccepteerder waarde van een bepaalde hoeveelheid en de gemeten waarde van die hoeveelheid wordt de fout (error) genoemd. Van een meting wordt gezegd dat ze nauwkeurig (accuracy) is als de fout klein is. Nauwkeurigheid is een indicatie van de foutenmarge in een meting. Stel bijvoorbeeld dat je de dikte van een 10 mm Gauge-meter wil meten met een micrometer en je meet 10,8 mm. Het meetverschil met de 10 mm standaard is hier 0,8 mm waaruit kan worden beschouwd dat de aflezing niet nauwkeurig is omdat een eindmaat (10 mm) wordt beschouwd als een werkende standaard. Als je 10.02 mm meet, is de meting nauwkeuriger omdat het redelijk overeenstemt met de norm.
 
-![](/assets/afbeelding_3.png)  Een andere term geassocieerd met de kwaliteit van een meting is    precisie (precision).   Precisie is een maat voor de herhaalbaarheid (of consistentie) van een meting van een hoeveelheid. Het is mogelijk om een nauwkeurige meting te hebben waarbij een serie metingen niet verspreid liggen, maar elke meting onnauwkeurig is vanwege een fout in het meetinstrument. Bijvoorbeeld een meetinstrument kan uit kalibratie zijn en moet geherkalibreerd worden. Het toestel kan nog steeds precies meten maar door het verlopen van de kalibratie zijn de metingen onnauwkeurig geworden. Het is echter niet mogelijk om een ​​nauwkeurig instrument te hebben tenzij het ook nauwkeurig beduidende cijfers heeft. 
+![](/assets/afbeelding_3.png)
 
 _Figuur 1-11 : visueel onderscheid tussen nauwkeurigheid en precisie_
+
+Een andere term geassocieerd met de kwaliteit van een meting is    precisie (precision).   Precisie is een maat voor de herhaalbaarheid (of consistentie) van een meting van een hoeveelheid. Het is mogelijk om een nauwkeurige meting te hebben waarbij een serie metingen niet verspreid liggen, maar elke meting onnauwkeurig is vanwege een fout in het meetinstrument. Bijvoorbeeld een meetinstrument kan uit kalibratie zijn en moet geherkalibreerd worden. Het toestel kan nog steeds precies meten maar door het verlopen van de kalibratie zijn de metingen onnauwkeurig geworden. Het is echter niet mogelijk om een ​​nauwkeurig instrument te hebben tenzij het ook nauwkeurig beduidende cijfers heeft. 
+
+
 
 Als je een meettoestel moet kalibreren zijn precisie en nauwkeurigheid belangrijke begrippen om te begrijpen. Kalibratie is het proces waarmee de meetwaarde van een bepaald instrument wordt vergeleken met een gegeven standaard . De standaard moet over het algemeen met een factor 4 nauwkeuriger zijn dan het te kalibreren instrument. Maar dit alleen is niet voldoende. Om de nauwkeurigheid te verzekeren, moet de kalibratie certificeerbaar zijn en moet het herleidbaar zijn naar de nationale normen die te vinden zijn (in de VS, is dit National Institute of Standards and Technology). De standaard vereist periodiek hernieuwen van de certificatie om de _nauwkeurigheid_ te verzekeren.
 
@@ -93,7 +97,7 @@ Oplossing
 
 4.  **0,00** **609** heeft drie beduidende cijfers (zie regels 2 en 3)
 
-### Afronden van getallen {#afronden-van-getallen}
+### Afronden van getallen 
 
 Metingen bevatten steeds benaderende cijfers . Zoals reeds is vermeld worden meetwaarden enkel weergeven met enkel de beduidende cijfers en niet meer dan één onzeker cijfer. Het aantal cijfers dat wordt getoond is indicatief voor de nauwkeurigheid van de meting. Om deze reden moet je de meetwaarde afronden door één of meerdere cijfers (digits), die zich uiterst rechts van het getal van de meetwaarde bevinden, te laten vallen. Gebruik alleen het meest significante weggelaten cijfer om te beslissen hoe af te ronden.
 
