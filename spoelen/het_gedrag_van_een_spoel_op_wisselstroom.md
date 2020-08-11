@@ -98,9 +98,9 @@ Een spoel bewaart de energie in zijn magnetisch veld. Een ideale spoel (zonder w
 
 Figuur 9-30 toont de vermogencurve gedurende een cyclus van het vermogen. Merk op dat deze curve veel gelijkenis toont met deze van de condensator. Het verschil is dat spanning en stroom omgewisseld zijn.
 
-**_Het ogenblikkelijjk of momenteel vermogen_ **$$ \mathit{p}$$
+**_Het ogenblikkelijk of momenteel vermogen_ **$$ \mathit{p}$$
 
-Het product van ogenblikkelijke spanning $$ u $$ met de ogenblikkelijke stroom $$ i$$ levert het ogenblikkelijk vermogen $$ p$$ op. Op punten waar $$ u$$ of $$ i$$ nul is, is $$ p$$ ook nul. Wanneer zowel $$ u$$ als i $$ $$ p ositief zijn, is $$ p$$ ook positief. Wanneer $$ u$$ of $$ i$$ positief is en het andere negatief, is $$ p$$ is negatief. Als zowel $$ u$$ als $$ i$$ negatief zijn, is $$ p$$ positief. Zoals in figuur 9-30 te zien is volgt het ogenblikkelijk vermogen een sinusvormige curve. Positieve waarden van het vermogen geven aan dat er energie door de spoel wordt opgeslagen. Negatieve waarden van het vermogen duiden aan dat er energie wordt teruggestuurd van de spoel naar de bron. Merk op dat het vermogen fluctueert op een frequentie twee keer die van de spanning of stroom. Dit komt omdat energie afwisselend wordt opgeslagen en teruggestuurdnaar de bron.
+Het product van ogenblikkelijke spanning $$ u $$ met de ogenblikkelijke stroom $$ i$$ levert het ogenblikkelijk vermogen $$ p$$ op. Op punten waar $$ u$$ of $$ i$$ nul is, is $$ p$$ ook nul. Wanneer zowel $$ u$$ als $$ i $$ positief zijn, is $$ p$$ ook positief. Wanneer $$ u$$ of $$ i$$ positief is en het andere negatief, is $$ p$$ is negatief. Als zowel $$ u$$ als $$ i$$ negatief zijn, is $$ p$$ positief. Zoals in figuur 9-30 te zien is volgt het ogenblikkelijk vermogen een sinusvormige curve. Positieve waarden van het vermogen geven aan dat er energie door de spoel wordt opgeslagen. Negatieve waarden van het vermogen duiden aan dat er energie wordt teruggestuurd van de spoel naar de bron. Merk op dat het vermogen fluctueert op een frequentie twee keer die van de spanning of stroom. Dit komt omdat energie afwisselend wordt opgeslagen en teruggestuurd naar de bron.
 
 **_Werkelijk vermogen_ **$$ {\mathit{P}}_{\mathit{w}\mathit{e}\mathit{r}\mathit{k}\mathit{e}\mathit{l}\mathit{i}\mathit{j}\mathit{k}}$$
 
